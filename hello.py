@@ -1,3 +1,3 @@
 print("Sup, witches.")
 
-print("All are welcome, except Geminis.")
+print("All are welcome, except Capricorns.")
